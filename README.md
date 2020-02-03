@@ -7,4 +7,4 @@ __Machine Learning__
 
 __Data Analysis__
 - [Airbnb Occupancy Rates: Data analysis on potential factors' influence on the households' occupancy rates](https://github.com/yy96/portfolio/tree/master/Airbnb's%20Occupancy%20Rates)
-- [Movie Ratings Network Analysis and Text Analysis]
+- [Movie Ratings Network Analysis and Text Analysis](https://github.com/yy96/portfolio/tree/master/Movie%20Ratings%20Network%20Analysis)
