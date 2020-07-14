@@ -1,4 +1,4 @@
-# Moving Ratings Network Analysis and Text Analysis
+# Movie Ratings Network Analysis and Text Analysis
 
 In the project, I have focused tapping on the concepts of network analysis. Using the data of movie reviews, I have built a network with user who have left a review as node and users who have reviewed the same movie connected by an edge.
 
