@@ -5,3 +5,5 @@ In the project, I have focused tapping on the concepts of network analysis. Usin
 I have then carried out detailed analysis on the network and also community detection in the overall network.
 
 Furthermore, I have also carried out text analysis on the reviews recevied for each community identified in the netowrk analysis.
+
+Check out the reports here: https://yy96.github.io/WhatsYourKindofMovie/
